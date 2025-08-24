@@ -1,0 +1,19 @@
+2025-08-23 23:16:46 | INFO | Starting training:
+    Epochs:          10
+    Batch size:      8
+    Learning rate:   0.01
+    Training size:   25037
+    Validation size: 0
+    Checkpoints:     True
+    Device:          cuda
+    Image scaling:   1.0
+    Mixed Precision: False
+
+2025-08-23 23:16:47 | INFO | Resuming from epoch 2
+2025-08-23 23:16:47 | INFO | Epoch 3/10 started.
+2025-08-24 00:05:37 | INFO | Saved checkpoint at epoch 3 with loss 0.035214
+2025-08-24 00:05:37 | INFO | Epoch 4/10 started.
+2025-08-24 00:53:24 | INFO | Saved checkpoint at epoch 4 with loss 0.028156
+2025-08-24 00:53:24 | INFO | Epoch 5/10 started.
+2025-08-24 01:41:16 | INFO | Saved checkpoint at epoch 5 with loss 0.025151
+2025-08-24 01:41:16 | INFO | Early stopping triggered at epoch 5
