@@ -18,6 +18,8 @@ After these modifications, the model achieved excellent performance from scratch
 
 I created a Flask-based web frontend using HTML and CSS to interact with the model.
 
+<img width="1331" height="817" alt="Screenshot 2025-08-24 155157" src="https://github.com/user-attachments/assets/8fce91c5-abc8-432e-b550-54a8a07cc211" />
+
 ### Features:
 - Upload a car image.
 - Generate the segmentation mask of the car.
