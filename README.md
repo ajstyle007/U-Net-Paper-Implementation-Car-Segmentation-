@@ -1,6 +1,6 @@
 # Car Image Segmentation using U-Net (PyTorch & Flask)
 
-I have implemented the original U-Net research paper using PyTorch and trained this model on a car dataset.
+I have implemented the original [U-Net research paper](https://arxiv.org/pdf/1505.04597) using PyTorch and trained this model on a car dataset. Visit [Live App](https://musk12-car-segmentation-mask.hf.space/)
 
 <img width="1000" height="500" alt="unet_arch" src="https://github.com/user-attachments/assets/0050f15d-3ce9-42b7-8fec-c141db5b1375" />
 
