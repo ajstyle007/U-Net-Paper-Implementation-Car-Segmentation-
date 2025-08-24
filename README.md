@@ -2,6 +2,8 @@
 
 I have implemented the original U-Net research paper using PyTorch and trained this model on a car dataset.
 
+<img width="1000" height="500" alt="unet_arch" src="https://github.com/user-attachments/assets/0050f15d-3ce9-42b7-8fec-c141db5b1375" />
+
 Initially, the original U-Net architecture without padding did not perform well on car images (originally designed for biomedical data). I trained the model on 5k car images and their masks, but results were suboptimal. To improve performance:
 
 - I applied data augmentation, increasing the dataset to 25k images and masks.
